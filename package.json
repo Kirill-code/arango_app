@@ -1,6 +1,6 @@
 {
   "name": "arango_app",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "homepage": "https://kirill-code.github.io/arango_app",
   "dependencies": {
@@ -14,12 +14,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -31,8 +25,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
   }
 }
