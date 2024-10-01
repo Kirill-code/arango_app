@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/arango_app/static/css/main.e9ce485e.css",
-    "main.js": "/arango_app/static/js/main.32361001.js",
+    "main.js": "/arango_app/static/js/main.64a5b621.js",
     "static/js/453.1e307381.chunk.js": "/arango_app/static/js/453.1e307381.chunk.js",
     "static/media/logo.svg": "/arango_app/static/media/logo.3361bc05afb93df9eec29c1c790ef128.svg",
     "index.html": "/arango_app/index.html",
     "main.e9ce485e.css.map": "/arango_app/static/css/main.e9ce485e.css.map",
-    "main.32361001.js.map": "/arango_app/static/js/main.32361001.js.map",
+    "main.64a5b621.js.map": "/arango_app/static/js/main.64a5b621.js.map",
     "453.1e307381.chunk.js.map": "/arango_app/static/js/453.1e307381.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9ce485e.css",
-    "static/js/main.32361001.js"
+    "static/js/main.64a5b621.js"
   ]
 }
