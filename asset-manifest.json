@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arango_app/static/css/main.e9ce485e.css",
+    "main.js": "/arango_app/static/js/main.94e334bc.js",
+    "static/js/453.244ca14f.chunk.js": "/arango_app/static/js/453.244ca14f.chunk.js",
+    "index.html": "/arango_app/index.html",
+    "main.e9ce485e.css.map": "/arango_app/static/css/main.e9ce485e.css.map",
+    "main.94e334bc.js.map": "/arango_app/static/js/main.94e334bc.js.map",
+    "453.244ca14f.chunk.js.map": "/arango_app/static/js/453.244ca14f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9ce485e.css",
+    "static/js/main.94e334bc.js"
+  ]
+}
