@@ -1,4 +1,4 @@
-Web 3 application, based on Telegram that helps yoga masters and practitioners find each other and organize a class.
+Web 3 application, based on Telegram that helps  masters and practitioners find each other and organize a class.
 
 Help yoga practitioners and masters to find each other and practice worldwide using The Open Network (Web3)technology
 
